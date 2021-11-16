@@ -1,16 +1,13 @@
-### Hi there 👋
+### Yo
 
-<!--
-**savefolla/savefolla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer from Italy :it:
+Currently working @ [CHILI](https://chili.com)
 
-Here are some ideas to get you started:
+- cyclist
+- guitarist
+- watches enthusiast
+- creator, with [Marco](http://marcomezzavilla.com/), of [screenfac.es](https://github.com/savefolla/visitors)
+- can exit vim
+- can't swim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Find me here: [folladorsaver.io](https://folladorsaver.io)
