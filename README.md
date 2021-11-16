@@ -1,6 +1,7 @@
 ### Yo
 
 Software engineer from Italy :it:
+
 Currently working @ [CHILI](https://chili.com)
 
 - cyclist
