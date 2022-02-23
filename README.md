@@ -2,7 +2,7 @@
 
 Software engineer from Italy :it:
 
-Currently working @ [CHILI](https://chili.com)
+Currently working @ [OpenPhone](https://openphone.co/)
 
 - cyclist
 - guitarist
