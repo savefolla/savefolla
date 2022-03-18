@@ -2,7 +2,7 @@
 
 Software engineer from Italy :it:
 
-Currently working @ [OpenPhone](https://openphone.co/)
+Currently working @ [OpenPhone](https://openphone.com/)
 
 - cyclist
 - guitarist
