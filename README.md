@@ -2,6 +2,6 @@
 
 Software engineer from Italy :it:
 
-Currently working @ [OpenPhone](https://openphone.com/)
+Currently working @ [Quo](https://quo.com/)
 
 Find me here: [folladorsaver.io](https://folladorsaver.io)
